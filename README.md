@@ -4,7 +4,7 @@
 
 This repository contains the "Building a Quiz" project, developed as part of my learning journey with FreeCodeCamp. The application is designed to provide an interactive quiz experience, allowing users to test their knowledge on various topics.
 
-![Quiz Preview](https://example.com/path-to-your-image.jpg)
+![Quiz Preview]([https://example.com/path-to-your-image.jpg](https://github.com/mdkeum/Building_a_Quiz/blob/main/images/building_a_quiz_screenshot.JPG))
 
 ## Features
 
