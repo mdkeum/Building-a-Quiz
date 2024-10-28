@@ -43,4 +43,7 @@ This project is open-source and available under the MIT License.
 ## Acknowledgments
 Special thanks to FreeCodeCamp for providing a comprehensive curriculum that guided the development of this project.
 
+## Contact Me
+
+If you have any questions or feedback, please reach out through my contact form [here](https:https://forms.gle/nXtzbpJXCPSpXUh8A).
 
