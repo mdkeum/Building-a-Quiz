@@ -32,7 +32,7 @@ To view the project locally:
 
 ## Live Demo
 
-You can view a live version of the project [here](https://yourusername.github.io/building-a-quiz/).
+You can view a live version of the project [here](https://mdkeum.github.io/Building_a_Quiz/).
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request.
